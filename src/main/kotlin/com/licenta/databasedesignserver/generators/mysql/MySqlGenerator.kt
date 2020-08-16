@@ -1,0 +1,3 @@
+package com.licenta.databasedesignserver.generators.mysql
+
+class MySqlGenerator
